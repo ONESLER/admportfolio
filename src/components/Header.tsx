@@ -11,9 +11,9 @@ import {
   person,
   home,
   about,
-  blog,
+  //blog,
   work,
-  gallery,
+  //gallery,
 } from "@/app/resources/content";
 
 type TimeDisplayProps = {
