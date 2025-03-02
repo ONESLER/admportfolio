@@ -97,11 +97,9 @@ const about = {
           <>
             Now my current position role is Deployment Officer.
           </>,
+          },
         ],
-      },
-    ],
-  },  
-          
+      },     
       {
         company: 'Mercan Canada Employment Phils., Inc.',
         timeframe: 'AUG 2024 - FEB 2025',
