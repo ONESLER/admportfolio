@@ -101,10 +101,7 @@ const about = {
               images: [
           // optional: leave the array empty if you don't want to display images
           {
-            src: "#",
-            alt: "first job project",
-            width: 16,
-            height: 9,
+            src: 
           },
         ],
       },   
