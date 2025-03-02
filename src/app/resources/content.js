@@ -99,6 +99,9 @@ const about = {
           </>,
         ],
       },
+    ],
+  },  
+          
       {
         company: 'Mercan Canada Employment Phils., Inc.',
         timeframe: 'AUG 2024 - FEB 2025',
