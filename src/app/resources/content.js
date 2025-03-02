@@ -98,15 +98,6 @@ const about = {
             Now my current position role is Deployment Officer.
           </>,
         ],
-        images: [
-          // optional: leave the array empty if you don't want to display images
-          {
-            src: "/images/projects/project-01/cover-01.jpg",
-            alt: "Once UI Project",
-            width: 16,
-            height: 9,
-          },
-        ],
       },
       {
         company: 'Mercan Canada Employment Phils., Inc.',
@@ -158,25 +149,41 @@ const about = {
     title: "Technical skills",
     skills: [
       {
-        title: "Figma",
-        description: <>Able to prototype in Figma with Once UI with unnatural speed.</>,
-        // optional: leave the array empty if you don't want to display images
-        images: [
-          {
-            src: "/images/projects/project-01/cover-02.jpg",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
-          {
-            src: "/images/projects/project-01/cover-03.jpg",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
-        ],
-      },
-      {
+                title: 'Communication',
+                description: <>As an IT professional, I can communicate with others even non-IT professional, of which I can still convey them the technical information effectively
+                even in non-technical terms.</>, 
+            },
+            {
+                title: 'Coding',
+                description: <>Able to develop and understand the codes or stucture complexity and writting codes in detailed way, in that way even co-programmer can easily
+                understand my codes structure. The following programming languages are my specialty.</>,
+                // optional: leave the array empty if you don't want to display images
+                images: [
+                    {
+                        src: '/images/credentials-certifications/programlang.png',
+                        alt: 'Programming Langauges',
+                        width: 16,
+                        height: 9
+                    },
+                ]
+            },
+            {
+                title: 'Computer Networks',
+                description: <>I do have a basic knowledge when comes to this field, considering this I believed my credibility to this field were only at level 1 at best.
+                Also I do have a CISCO certification to back-up my statement.</>,
+                // optional: leave the array empty if you don't want to display images
+                images: [
+                    {
+                        src: '/images/credentials-certifications/CCNA.png',
+                        alt: 'CCNA Certification',
+                        width: 16,
+                        height: 12
+                    },
+                ]
+            }
+        ]
+    }
+}
         title: "Next.js",
         description: <>Building next gen apps with Next.js + Once UI + Supabase.</>,
         // optional: leave the array empty if you don't want to display images
