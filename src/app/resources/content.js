@@ -98,6 +98,15 @@ const about = {
             Now my current position role is Deployment Officer.
           </>,
           ],
+              images: [
+          // optional: leave the array empty if you don't want to display images
+          {
+            src: "#",
+            alt: "first job project",
+            width: 16,
+            height: 9,
+          },
+        ],
       },   
       {
         company: 'Mercan Canada Employment Phils., Inc.',
