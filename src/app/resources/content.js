@@ -6,7 +6,7 @@ const person = {
   get name() {
     return `${this.firstName} ${this.lastName}`;
   },
-  role: "Software Developer / IT Support",
+  role: "Software Engineer / IT Support",
   avatar: "/images/myavatar.JPG",
   location:  'Asia/Manila', // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
   languages: ['English', 'Tagalog']  // optional: Leave the array empty if you don't want to display languages
@@ -76,8 +76,8 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        I'm a software developer with technical skills in hardware, 
-        software, and network, but with no prior experiences a side from self-learned and 
+        I'm a software engineer with technical skills in hardware, 
+        software, and network, but with no prior professional work experiences a side from self-learned and 
         willingness to learn in those fields.
       </>
     ),
