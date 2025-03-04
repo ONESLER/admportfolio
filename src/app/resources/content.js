@@ -52,8 +52,8 @@ const home = {
   label: 'Home',
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Software Developer with Technical Skills</>,
-  subline: <>I'm Aaron you can call <InlineCode>A</InlineCode>, for short, a software developer with no prior experiences a side from self-learned.</>
+  headline: <>Software Engineer with Technical Skills</>,
+  subline: <>I'm Aaron you can call <InlineCode>A</InlineCode>, for short, a software engineer with no prior professional work experiences a side from self-learned.</>
 };
 
 const about = {
