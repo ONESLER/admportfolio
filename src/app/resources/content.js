@@ -6,7 +6,7 @@ const person = {
   get name() {
     return `${this.firstName} ${this.lastName}`;
   },
-  role: "Software Engineer / IT Support",
+  role: "Software Developer / IT Support",
   avatar: "/images/myavatar.JPG",
   location:  'Asia/Manila', // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
   languages: ['English', 'Tagalog']  // optional: Leave the array empty if you don't want to display languages
@@ -18,7 +18,7 @@ const newsletter = {
   description: (
     <>
       I occasionally write about design, technology, and share thoughts on the intersection of
-      creativity and engineering.
+      creativity and Engineering.
     </>
   ),
 };
@@ -52,8 +52,8 @@ const home = {
   label: 'Home',
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Software Engineer with Technical Skills</>,
-  subline: <>I'm Aaron you can call <InlineCode>A</InlineCode>, for short, a software engineer with no prior professional work experiences a side from self-learned.</>
+  headline: <>Software Developer with Technical Skills</>,
+  subline: <>I'm Aaron you can call <InlineCode>A</InlineCode>, for short, a software Developer with no prior professional work experiences a side from self-learned.</>
 };
 
 const about = {
@@ -76,7 +76,7 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        I'm a software engineer with technical skills in hardware, 
+        I'm a software Developer with technical skills in hardware, 
         software, and network, but with no prior professional work experiences a side from self-learned and 
         willingness to learn in those fields.
       </>
