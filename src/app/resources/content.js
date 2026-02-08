@@ -76,9 +76,10 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        I'm a software Developer with technical skills in hardware, 
-        software, and network, but with no prior professional work experiences a side from self-learned and 
-        willingness to learn in those fields.
+    I'm an IT graduate with strong analytical and problem-solving skills, currently working as a Travel and Government Relations Officer. 
+    I have an experienced in coordinating logistics, managing compliance with government regulations, and building strong stakeholder relationships. 
+   I Adept at applying technical knowledge to streamline processes, enhance efficiency, and support organizational goals. 
+  I'm also seeking opportunities to leverage both IT expertise and administrative experience in a dynamic environment.
       </>
     ),
   },
@@ -282,3 +283,4 @@ const gallery = {
 };
 
 export { person, social, newsletter, home, about, blog, work, gallery };
+
