@@ -53,7 +53,7 @@ const home = {
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
   headline: <>Software Developer with Technical Skills</>,
-  subline: <>I'm Aaron you can call <InlineCode>A</InlineCode>, for short, a software Developer with no prior professional work experiences a side from self-learned.</>
+  subline: <>I'm Aaron you can call <InlineCode>A</InlineCode>, for short, Self-motivated IT graduate and aspiring software developer with a strong foundation in programming, web development, and database management.</>
 };
 
 const about = {
@@ -89,25 +89,11 @@ const about = {
     experiences: [
       {
         company: 'Mercan Canada Employment Phils., Inc.',
-        timeframe: 'FEB 2025 - PRESENT',
-        role: 'Deployment Officer',
+        timeframe: 'AUG 2024 - PRESENT,
+        role: 'TRAVEL AND GOVERNMENT RELATIONS OFFICER',
         achievements: [
           <>
-            I became a regular employee after my 6 month probation period, with a position role of Deployment Associate.
-          </>,
-          <>
-            Now my current position role is Deployment Officer.
-          </>,
-          ],
-        images: [ ]
-      },   
-      {
-        company: 'Mercan Canada Employment Phils., Inc.',
-        timeframe: 'AUG 2024 - FEB 2025',
-        role: 'Deployment Associate',
-        achievements: [
-          <>
-            Developed Task Management Website using with Laravel Framework.
+            Developed a Task Management Website for the company.
           </>,
         ],
         images: [
@@ -283,4 +269,5 @@ const gallery = {
 };
 
 export { person, social, newsletter, home, about, blog, work, gallery };
+
 
