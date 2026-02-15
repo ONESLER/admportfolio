@@ -106,6 +106,7 @@ const about = {
           },
         ],
       },
+          
       {
         company: 'City Government of Meycauayan',
         timeframe: 'FEB 2024 - MAY 2024',
