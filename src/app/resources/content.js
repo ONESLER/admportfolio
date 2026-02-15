@@ -89,7 +89,7 @@ const about = {
     experiences: [
       {
         company: 'Mercan Canada Employment Phils., Inc.',
-        timeframe: 'AUG 2024 - PRESENT,
+        timeframe: 'AUG 2024 - PRESENT',
         role: 'TRAVEL AND GOVERNMENT RELATIONS OFFICER',
         achievements: [
           <>
@@ -106,7 +106,6 @@ const about = {
           },
         ],
       },
-          
       {
         company: 'City Government of Meycauayan',
         timeframe: 'FEB 2024 - MAY 2024',
@@ -270,5 +269,6 @@ const gallery = {
 };
 
 export { person, social, newsletter, home, about, blog, work, gallery };
+
 
 
